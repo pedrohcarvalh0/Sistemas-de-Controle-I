@@ -11,6 +11,6 @@ Repositório destinado à entrega da Avaliação Final da disciplina, ministrada
 ## 👨‍🎓 Autores
 *   Maic de Oliveira Santos
 *   Pedro Henrique Carvalho Felix
-*   Thiago José
+*   Thiago Jose de Souza Neto
 
 *(UNIVASF - Engenharia de Computação, 2026)*
